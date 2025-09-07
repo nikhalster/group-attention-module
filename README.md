@@ -19,10 +19,10 @@ When using and referencing this repository, including derivative works, please c
 ```
 
 ### Architecture Overview
-![architecture](reid/arch.png)
+![architecture](arch.png)
 
 ### GAM Block Overview
-![gam](reid/gam.PNG)
+![gam](gam.PNG)
 
 ### Prerequisites
 
